@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinptm: computational neuroscientist by training, 
+- 👋 Hi, I’m @martinptm: computational neuroscientist by training, interested in applications of AI that directly benefit humans and environent.
 - 👀 I’m interested in the human brain, how to tackle the climate crisis and contributing to a future with more equal opportunities.
 - 🌱 I’m currently learning more about creating robust and explainable ML applications.
 - 💞️ I’m looking to collaborate on any open source projects with a potentially positive impact.
