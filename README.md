@@ -2,6 +2,7 @@
 - 👀 I’m interested in the human brain, how to tackle the climate crisis and contributing to a future with more equal opportunities.
 - 🌱 I’m currently learning more about creating robust and explainable ML applications.
 - 💞️ I’m looking to collaborate on any open source projects with a potentially positive impact.
+- hyped to see https://github.com/lenasal/neurolib/tree/OCdev being merged soon :D:D:D
 - 📫 How to reach me: by opening a PR with your contact request on any of my public repos.
 
 <!---
